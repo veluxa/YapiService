@@ -8,4 +8,4 @@ Yapi api管理平台WIN平台伺服器后台
 1. 安装mongodb
 2. 下载并配置yapi（教程:https://www.jianshu.com/p/ea18b317da2e）
 
-![截图](https://github.com/veluxa/LeanoteService/raw/master/Screenshot.png)
+![截图](https://github.com/veluxa/YapiService/raw/master/Screenshot.png)
